@@ -25,7 +25,7 @@
 package net.minecrell.terminalconsole;
 
 import org.apache.logging.log4j.LogManager;
-import org.checkerframework.checker.nullness.qual.Nullable;
+import org.jetbrains.annotations.Nullable;
 import org.jline.reader.Completer;
 import org.jline.reader.EndOfFileException;
 import org.jline.reader.LineReader;

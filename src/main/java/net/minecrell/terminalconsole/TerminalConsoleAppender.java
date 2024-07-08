@@ -34,7 +34,7 @@ import org.apache.logging.log4j.core.config.Property;
 import org.apache.logging.log4j.core.config.plugins.Plugin;
 import org.apache.logging.log4j.core.config.plugins.PluginBuilderFactory;
 import org.apache.logging.log4j.util.PropertiesUtil;
-import org.checkerframework.checker.nullness.qual.Nullable;
+import org.jetbrains.annotations.Nullable;
 import org.jline.reader.LineReader;
 import org.jline.terminal.Terminal;
 import org.jline.terminal.TerminalBuilder;
